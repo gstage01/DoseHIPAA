@@ -36,7 +36,11 @@ Dose Health implements policies and procedures to maintain compliance and integr
   4. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
   6. Policy review is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+<<<<<<< HEAD
 7. <mark>`Dose Health utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis`</mark>. Dose Health also tracks compliance with HIPAA and publishes results at <mark>`[https://hipaa.Dose Health.com](https://hipaa.Dose Health.com)`</mark>. In order to track and measure adherence on an annual basis, Dose Health uses the following process to track HITRUST audits, both full and interim:
+=======
+7. <mark>Dose Health utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis</mark>. Dose Health also tracks compliance with HIPAA and publishes results at `[https://hipaa.Dose Health.com](https://hipaa.Dose Health.com)`. In order to track and measure adherence on an annual basis, Dose Health uses the following process to track HITRUST audits, both full and interim:
+>>>>>>> 4ed4350859745a6a428dce3c75cfaa515d2bef05
   1. The Security Officer initiates the HITRUST audit activity by creating an Issue in the Dose Health Quality Management System.
   2. The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
   3. Once the HITRUST activity is completed, the Security Officer approves or rejects the Issue.
