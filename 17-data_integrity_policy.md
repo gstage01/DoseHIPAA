@@ -24,7 +24,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 
 ## 17.4 Prevention of Malware on Production Systems
 
-1. <mark>All Production Systems must have OSSEC running, and set to scan system every 2 hours and at reboot to assure not malware is present. Detected malware is evaluated and removed.</mark>
+1. <mark>`All Production Systems must have OSSEC running, and set to scan system every 2 hours and at reboot to assure not malware is present. Detected malware is evaluated and removed.`</mark>
 2. Virus scanning software is run on all Production Systems for anti-virus protection.
    * Hosts are scanned daily for malicious binaries in critical system paths.
    * The malware signature database is checked hourly and automatically updated if new signatures are available.
@@ -40,7 +40,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 ## 17.6 Intrusion Detection and Vulnerability Scanning
 
 1. Production systems are monitored using IDS systems. Suspicious activity is logged and alerts are generated.
-2. <mark>Vulnerability scanning of Production Systems must occur on a predetermined, regular basis, no less than annually. Currently it is weekly. Scans are reviewed by Security Officer, with defined steps for risk mitigation, and retained for future reference.</mark>
+2. <mark>`Vulnerability scanning of Production Systems must occur on a predetermined, regular basis, no less than annually. Currently it is weekly. Scans are reviewed by Security Officer, with defined steps for risk mitigation, and retained for future reference.`</mark>
 
 ## 17.7 Production System Security
 

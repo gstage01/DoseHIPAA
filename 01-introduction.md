@@ -22,7 +22,7 @@ Mappings of HIPAA Rules to Dose Health controls and a mapping of what Rules are 
 
 ## 1.3 Dose Health Organizational Concepts
 
-The physical infrastructure environment is hosted at [Amazon Web Services](https://aws.amazon.com/) (AWS). The network components and supporting network infrastructure are contained within the AWS infrastructures and managed by AWS. Dose Health does not have physical access into the network components. The Dose Health environment consists of <mark>Cisco firewalls; nginx web servers; Java, Python, and Go application servers; Percona and PostgreSQL database servers; Logstash logging servers; Linux Ubuntu monitoring servers; Windows Server virtual machines; Chef and Salt configuration management servers; OSSEC IDS services; Docker containers; and developer tool servers running on Linux Ubuntu</mark>.
+The physical infrastructure environment is hosted at [Amazon Web Services](https://aws.amazon.com/) (AWS). The network components and supporting network infrastructure are contained within the AWS infrastructures and managed by AWS. Dose Health does not have physical access into the network components. The Dose Health environment consists of <mark>`Cisco firewalls; nginx web servers; Java, Python, and Go application servers; Percona and PostgreSQL database servers; Logstash logging servers; Linux Ubuntu monitoring servers; Windows Server virtual machines; Chef and Salt configuration management servers; OSSEC IDS services; Docker containers; and developer tool servers running on Linux Ubuntu`</mark>.
 
 Within the Dose Health Platform on AWS, all data transmission is encrypted and all hard drives are encrypted so data at rest is also encrypted; this applies to all servers - those hosting Docker containers, databases, APIs, log servers, etc. Dose Health assumes all data *may* contain ePHI, even though our Risk Assessment does not indicate this is the case, and provides appropriate protections based on that assumption.
 
@@ -32,7 +32,7 @@ The data and network segmentation mechanism differs depending on the primitives 
 
 * Within AWS, hosted load balancers segment data across dedicated Virtual Private Clouds for PaaS Customers and for Platform Add-ons.
 
-The segmentation strategies employed by Dose Health effectively create <mark>RFC 1918</mark>, or dedicated, private segmented and separated networks and IP spaces, for each PaaS Customer and for Platform Add-ons.
+The segmentation strategies employed by Dose Health effectively create <mark>`RFC 1918`</mark>, or dedicated, private segmented and separated networks and IP spaces, for each PaaS Customer and for Platform Add-ons.
 
 Additionally, IPtables is used on each server for logical segmentation. IPtables is configured to restrict access to only justified ports and protocols. Dose Health has implemented strict logical access controls so that only authorized personnel are given access to the internal management servers. The environment is configured so that data is transmitted from the load balancers to the application servers over an TLS encrypted session.
 
@@ -46,9 +46,9 @@ All Platform Add-ons and operating systems are tested end-to-end for usability, 
 
 Dose Health, at its sole discretion, shares audit reports, including its HITRUST reports and Corrective Action Plans (CAPs), with customers on a case by case basis. All audit reports are shared under explicit NDA in Dose Health format between Dose Health and party to receive materials. Audit reports can be requested by Dose Health workforce members for Customers or directly by Dose Health Customers.
 
-<span style="background-color: #FFFF00">The following process is used to request audit reports</span>:
+<mark>`The following process is used to request audit reports`</mark>:
 
-1. Email is sent to <span style="background-color: #FFFF00">compliance-reports@Dose Health.com</span>. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to <mark>`compliance-reports@Dose Health.com`</mark>. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Dose Health staff will log an issue with the details of the request into the Dose Health Quality Management System. The Dose Health Quality Management System is used to track requests' status and outcomes.
 3. Dose Health will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Dose Health will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Dose Health staff will move the issue to "Under Review".

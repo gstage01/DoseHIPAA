@@ -75,7 +75,7 @@ In the case of a breach, Dose Health shall notify all affected Customers. It is 
 
 Dear [Name of Customer]:
 
-I am writing to you from Dose Health Health, Inc., with important information about a recent breach that affects your account with us. We became aware of this breach on [Insert Date] which occurred on or about [Insert Date]. The breach occurred as follows:
+I am writing to you from Dose Health, Inc., with important information about a recent breach that affects your account with us. We became aware of this breach on [Insert Date] which occurred on or about [Insert Date]. The breach occurred as follows:
 
 Describe event and include the following information:
 
@@ -94,7 +94,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-<mark>Travis Good, MD  </mark>
+<mark>`Travis Good, MD `</mark>
 Co-founder - Dose Health Health, Inc.  
 travis@Dose Health.com  
 303-351-2640

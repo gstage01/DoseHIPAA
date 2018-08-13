@@ -47,11 +47,11 @@ This policy applies to all Dose Health Add-on systems, including BaaS, that stor
    * System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Dose Health utilizes file system monitoring from OSSEC to assure the integrity of file system data.
    * Network: Network level audit trails generally monitor information on what is operating, penetrations, and vulnerabilities.
 3. Dose Health shall log all incoming and outgoing traffic to into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Dose Health.
-4. <mark>Dose Health utilizes OSSEC to scan all systems for malicious and unauthorized software every 2 hours and at reboot of systems.</mark>
+4. <mark>`Dose Health utilizes OSSEC to scan all systems for malicious and unauthorized software every 2 hours and at reboot of systems.`</mark>
 5. Dose Health leverages process monitoring tools throughout its environment.
-6. <mark>Dose Health uses OSSEC to monitor the integrity of log files by utilizing OSSEC System Integrity Checking capabilities.</mark>
+6. <mark>`Dose Health uses OSSEC to monitor the integrity of log files by utilizing OSSEC System Integrity Checking capabilities.`</mark>
 7. Dose Health shall identify "trigger events" or criteria that raise awareness of questionable conditions of viewing of confidential information. The "events" may be applied to the entire Dose Health Platform or may be specific to a Customer, partner, business associate, Platform Add-on or application (See Listing of Potential Trigger Events below).
-8. In addition to trigger events, <mark>Dose Health utilizes OSSEC log correlation functionality to proactively identify and enable alerts based on log data.</mark>
+8. In addition to trigger events, <mark>`Dose Health utilizes OSSEC log correlation functionality to proactively identify and enable alerts based on log data.`</mark>
 9. Logs are reviewed weekly by the Security Officer.
 10. Dose Health's Security Officer and Privacy Officer are authorized to select and use auditing tools that are designed to detect network vulnerabilities and intrusions. Such tools are explicitly prohibited by others, including Customers and Partners, without the explicit authorization of the Security Officer. These tools may include, but are not limited to:
     * Scanning tools and devices;
@@ -79,7 +79,7 @@ This policy applies to all Dose Health Add-on systems, including BaaS, that stor
 
 ## 8.4 Review and Reporting of Audit Findings
 
-1. Audit information that is routinely gathered must be reviewed in a timely manner, currently monthly, by the responsible workforce member(s). On a quarterly basis, logs are reviewed to assure the proper data is being captured and retained. <mark>The following process details how log reviews are done at Dose Health</mark>:
+1. Audit information that is routinely gathered must be reviewed in a timely manner, currently monthly, by the responsible workforce member(s). On a quarterly basis, logs are reviewed to assure the proper data is being captured and retained. <mark>`The following process details how log reviews are done at Dose Health`</mark>:
   1. The Security Officer initiates the log review by creating an Issue in the Dose Health Quality Management System.
   2. The Security Officer, or a Dose Health Security Engineer assigned by the Security Officer, is assigned to review the logs.
   3. Relevant audit log findings are added to the Issue; these findings are investigated in a later step. Once those steps are completed, the Issue is then reviewed again.

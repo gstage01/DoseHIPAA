@@ -4,7 +4,7 @@ This policy establishes the scope, objectives, and procedures of Dose Health's i
 
 ## 4.1 Applicable Standards
 
-### <mark>4.1.1 Applicable Standards from the HITRUST Common Security Framework<mark>
+### <mark>`4.1.1 Applicable Standards from the HITRUST Common Security Framework`<mark>
 
 * 03.a - Risk Management Program Development
 * 03.b - Performing Risk Assessments
@@ -34,17 +34,17 @@ This policy establishes the scope, objectives, and procedures of Dose Health's i
 5. All Dose Health workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Dose Health Roles Policy.
 6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Dose Health's Security Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
-8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. <mark>The process is tracked, measured, and monitored using the following procedures</mark>:
+8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. <mark>`The process is tracked, measured, and monitored using the following procedures`</mark>:
   1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an issue in the Dose Health Quality Management System.
   2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
   3. All findings are documented in an approved spreadsheet that is linked to the Issue.
   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Manageement System reporting to assess compliance with above policy.
+9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 
-### <mark>4.3.1 Risk Assessment</mark>
+### <mark>`4.3.1 Risk Assessment`</mark>
 
 The intent of completing a risk assessment is to determine potential threats and vulnerabilities and the likelihood and impact should they occur. The output of this process helps to identify appropriate controls for reducing or eliminating risk.
 
@@ -66,7 +66,7 @@ The intent of completing a risk assessment is to determine potential threats and
 
 * Step 5. Likelihood Determination
   * Determine the overall likelihood rating that indicates the probability that a vulnerability could be exploited by a threat-source given the existing or planned security controls.
-  * Output - <mark>Likelihood rating of low (.1), medium (.5), or high (1). Refer to the NIST SP 800-30 definitions of low, medium, and high</mark>.
+  * Output - <mark>`Likelihood rating of low (.1), medium (.5), or high (1). Refer to the NIST SP 800-30 definitions of low, medium, and high`</mark>.
 
 * Step 6. Impact Analysis
   * Determine the level of adverse impact that would result from a threat successfully exploiting a vulnerability. Factors of the data and systems to consider should include the importance to Dose Health's mission; sensitivity and criticality (value or importance); costs associated; loss of confidentiality, integrity, and availability of systems and data.
@@ -74,7 +74,7 @@ The intent of completing a risk assessment is to determine potential threats and
 
 * Step 7. Risk Determination
   * Establish a risk level. By multiplying the ratings from the likelihood determination and impact analysis, a risk level is determined. This represents the degree or level of risk to which an IT system, facility, or procedure might be exposed if a given vulnerability were exercised. The risk rating also presents actions that senior management must take for each risk level.
-  * Output - <mark>Risk level of low (1-10), medium (>10-50) or high (>50-100). Refer to the NIST SP 800-30 definitions of low, medium, and high</mark>.
+  * Output - <mark>`Risk level of low (1-10), medium (>10-50) or high (>50-100). Refer to the NIST SP 800-30 definitions of low, medium, and high`</mark>.
 
 * Step 8. Control Recommendations
   * Identify controls that could reduce or eliminate the identified risks, as appropriate to the organization's operations to an acceptable level. Factors to consider when developing controls may include effectiveness of recommended options (i.e., system compatibility), legislation and regulation, organizational policy, operational impact, and safety and reliability. Control recommendations provide input to the risk mitigation process, during which the recommended procedural and technical security controls are evaluated, prioritized, and implemented.
@@ -131,7 +131,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
 
 ### 4.3.3 Risk Management Schedule
 
-The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following <mark>schedule to ensure the continued adequacy and continuous improvement of Dose Health's information security program</mark>:
+The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following <mark>`schedule to ensure the continued adequacy and continuous improvement of Dose Health's information security program`</mark>:
 
 * Scheduled Basis - an overall risk assessment of Dose Health's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.

@@ -27,7 +27,7 @@ The incident response process addresses:
 
 ## 11.2 Incident Management Policies
 
-<mark>The Dose Health incident response process follows the process recommended by [SANS](https://www.sans.org), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](sections/incident-flowchart.pdf).</mark>
+<mark>`The Dose Health incident response process follows the process recommended by [SANS](https://www.sans.org), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](sections/incident-flowchart.pdf).`</mark>
 
 Dose Health's incident response classifies security-related events into the following categories:
 
@@ -62,9 +62,9 @@ Dose Health employees must report any unauthorized or suspicious activity seen o
 2. The individual receiving the report facilitates completion of an [Incident Identification form](sections/IH-Identification.pdf) and notifies the Security Officer (if not already done).
 3. The Security Officer determines if the issue is an Event, Precursor, Indication, or Incident.
    1. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
-      1. <mark>Non-Technical Event (minor infringement): the Security Officer completes a [SIR Form](sections/sir-form.doc) and investigates the incident.</mark>
+      1. <mark>`Non-Technical Event (minor infringement): the Security Officer completes a [SIR Form](sections/sir-form.doc) and investigates the incident.`</mark>
       2. Technical Event: Assign the issue to an IT resource for resolution. This resource may also be a contractor or outsourced technical resource, in the event of a small office or lack of expertise in the area.
-   2. <mark>If the issue is a security incident the Security Officer activates the Security Incident Response Team (SIRT) and notifies senior management.</mark>
+   2. <mark>`If the issue is a security incident the Security Officer activates the Security Incident Response Team (SIRT) and notifies senior management.`</mark>
        1. If a non-technical security incident is discovered the SIRT completes the investigation, implements preventative measures, and resolves the security incident.
        2. Once the investigation is completed, progress to Phase V, Follow-up.
        3. If the issue is a technical security incident, commence to Phase II: Containment.

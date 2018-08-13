@@ -33,7 +33,7 @@ Access to Dose Health systems and application is limited for all users, includin
 
 ## 7.2 Access Establishment and Modification
 
-1. <mark>Requests for access to Dose Health Platform systems and applications is made formally using the following process:</mark>
+1. <mark>`Requests for access to Dose Health Platform systems and applications is made formally using the following process:`</mark>
   1. A Dose Health workforce member initiates the access request by creating an Issue in the Dose Health Quality Management System.
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
@@ -47,7 +47,7 @@ Access to Dose Health systems and application is limited for all users, includin
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Dose Health employee at the discretion of the Security Officer or Privacy Officer .
 2. Access is not granted until receipt, review, and approval by the Dose Health Security Officer or Privacy Officer ;
 3. The request for access is retained for future reference.
-4. All access to Dose Health systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. <mark>The process for conducting reviews is outlined below:</mark>
+4. All access to Dose Health systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. <mark>`The process for conducting reviews is outlined below:`</mark>
    1. The Security Officer initiates the review of user access by creating an Issue in the Dose Health Quality Management System.
    2. The Security Officer is assigned to review levels of access for each Dose Health workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
@@ -61,13 +61,13 @@ Access to Dose Health systems and application is limited for all users, includin
    * Accounts that are inactive for over 90 days are removed.
 8. In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of Dose Health Customers to define, and not Dose Health.
 9. Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
-   * <mark>For production systems, this is enforced by creating non-privileged user accounts that must invoke `sudo` to perform privileged tasks.</mark>
+   * <mark>`For production systems, this is enforced by creating non-privileged user accounts that must invoke `sudo` to perform privileged tasks.`</mark>
    * Rights for privileged accounts are granted by the Security Officer or Privacy Officer using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 10. All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
 11. Generic accounts are not allowed on Dose Health systems.
 12. Access is granted through encrypted, VPN tunnels that utilize two-factor authentication.
     * Two-factor authentication is accomplished using a Time-based One-Time Password (TOTP) as the second factor.
-    * <mark>VPN connections use 256-bit AES 256 encryption, or equivalent.</mark>
+    * <mark>`VPN connections use 256-bit AES 256 encryption, or equivalent.`</mark>
     * VPN sessions are automatically disconnected after 30 minutes of inactivity.
 13. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 14. Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
@@ -76,7 +76,7 @@ Access to Dose Health systems and application is limited for all users, includin
 
 1. The level of security assigned to a user to the organization's information systems is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
-3. <mark>Dose Health maintains a minimum necessary approach to access to Customer data. As such, Dose Health, including all workforce members, does not readily have access to any ePHI.</mark>
+3. <mark>`Dose Health maintains a minimum necessary approach to access to Customer data. As such, Dose Health, including all workforce members, does not readily have access to any ePHI.`</mark>
 
 ## 7.4 Access Authorization
 
@@ -88,7 +88,7 @@ Access to Dose Health systems and application is limited for all users, includin
 1. Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
 2. Each Customer and Partner has and uses a unique user ID and password that identifies him/her as the user of the information system.
 3. All Customer support desk interactions must be verified before Dose Health support personnel will satisfy any request having information security implications.
-   * <mark>Dose Health's current support desk software, Zendesk, requires users to authenticate before submitting support tickets.</mark>
+   * <mark>`Dose Health's current support desk software, Zendesk, requires users to authenticate before submitting support tickets.`</mark>
    * Support issues submitted via Dose Health's dashboard require that users authenticate with their Dose Health account before submitting support tickets.
    * Support issues submitted by email must be verified by Dose Health personnel using a phone number that has been registered with the corresponding account.
 
@@ -97,9 +97,9 @@ Access to Dose Health systems and application is limited for all users, includin
 1. Access to the Dose Health Platform systems and applications is controlled by requiring unique User Login IDs and passwords for each individual user and developer.
 2. Passwords requirements mandate strong password controls (see below).
 3. Passwords are not displayed at any time and are not transmitted or stored in plain text.
-4. Default accounts on all production systems, <mark>including root</mark>, are disabled.
+4. Default accounts on all production systems, <mark>`including root`</mark>, are disabled.
 5. Shared accounts are not allowed within Dose Health systems or networks.
-6. <mark>Automated log-on configurations that store user passwords or bypass password entry are not permitted for use with Dose Health workstations or production systems.</mark>
+6. <mark>`Automated log-on configurations that store user passwords or bypass password entry are not permitted for use with Dose Health workstations or production systems.`</mark>
 
 ## 7.7 Automatic Logoff
 
@@ -131,7 +131,7 @@ All workstations at Dose Health are company owned.
 ## 7.10 Employee Termination Procedures
 
 1. The Human Resources Department (or other designated department), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the "Termination Checklist".
-2. <mark>The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):</mark>
+2. <mark>`The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):`</mark>
    * The user has been using their access rights inappropriately;
    * A user's password has been compromised (a new password may be provided to the user if the user is not identified as the individual compromising the original password);
    * An unauthorized individual is utilizing a user's User Login ID and password (a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password).
@@ -164,8 +164,8 @@ Dose Health does not use paper records for any sensitive information. Use of pap
 9. Password change methods must use a confirmation method to correct for user input errors.
 10. All passwords used in configuration scripts are secured and encrypted.
 11. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
-12. <mark> In cases where a user has forgotten their password, the following procedure is used to reset the password.</mark>
-    * The user submits a password reset request to <mark>password-reset@Dose Health.com</mark>. The request should include the system to which the user has lost access and needs the password reset.
+12. <mark>`In cases where a user has forgotten their password, the following procedure is used to reset the password.`</mark>
+    * The user submits a password reset request to <mark>`password-reset@Dose Health.com`</mark>. The request should include the system to which the user has lost access and needs the password reset.
     * An administrator with password reset privileges is notified and connects directly with the user requesting the password reset.
     * The administrator verifies the identity of the user either in-person or through a separate communication channel such as phone or Hangouts.
     * Once verified, the administrator resets the password.

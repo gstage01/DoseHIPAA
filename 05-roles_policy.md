@@ -1,10 +1,10 @@
 # 5. Roles Policy
 
-Dose Health has a <mark>Security Officer [164.308(a)(2)]</mark> and <mark>Privacy Officer [164.308(a)(2)]</mark> appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Dose Health has a <mark>`Security Officer [164.308(a)(2)]`</mark> and <mark>`Privacy Officer [164.308(a)(2)]`</mark> appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## 5.1 Applicable Standards
 
-### <mark>5.1.1 Applicable Standards from the HITRUST Common Security Framework</mark>
+### <mark>`5.1.1 Applicable Standards from the HITRUST Common Security Framework`</mark>
 
 * 02.f - Disciplinary Process
 * 06.d - Data Protection and Privacy of Covered Information
@@ -25,7 +25,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Dose Health Privacy Officer is <mark>Travis Good ([travis@Dose Health.com](mailto:travis@Dose Health.com))</mark>.
+The current Dose Health Privacy Officer is <mark>`Travis Good ([travis@Dose Health.com](mailto:travis@Dose Health.com))`</mark>.
 
 ### 5.2.1 Workforce Training Responsibilities
 
@@ -37,8 +37,8 @@ The current Dose Health Privacy Officer is <mark>Travis Good ([travis@Dose Healt
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 3. The training session focuses on, but is not limited to, the following subjects defined in Dose Health's security policies and procedures:
    1. HIPAA Privacy, Security, and Breach notification rules;
-   2. <mark>HITRUST Common Security Framework</mark>;
-   3. <mark>NIST Security Rules</mark>;
+   2. <mark>`HITRUST Common Security Framework`</mark>;
+   3. <mark>`NIST Security Rules`</mark>;
    4. Risk Management procedures and documentation;
    5. Auditing. Dose Health may monitor access and activities of all users;
    6. Workstations may only be used to perform assigned job responsibilities;
@@ -64,11 +64,11 @@ The current Dose Health Privacy Officer is <mark>Travis Good ([travis@Dose Healt
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Dose Health security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Dose Health Security Officer is <mark>Christopher Gerg ([chris.gerg@Dose Health.com](mailto:chris@Dose Health.com))</mark>.
+The current Dose Health Security Officer is <mark>`Christopher Gerg ([chris.gerg@Dose Health.com](mailto:chris@Dose Health.com))`</mark>.
 
 ### 5.3.1 Organizational Responsibilities
 
-The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Dose Health's efforts to be compliant with the HIPAA Security Regulations, <mark>HITRUST CSF</mark>, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI. The Security Officer is appointed by and reports to the Board of Directors and the CEO.
+The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Dose Health's efforts to be compliant with the HIPAA Security Regulations, <mark>`HITRUST CSF`</mark>, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI. The Security Officer is appointed by and reports to the Board of Directors and the CEO.
 
 These organizational responsibilities include, but are not limited to the following:
 
@@ -102,7 +102,7 @@ These organizational responsibilities include, but are not limited to the follow
 13. The Security Officer works with the COO to ensure that any security objectives have appropriate consideration during the budgeting process.
     * In general, security and compliance are core to Dose Health's technology and service offerings; in most cases this means security-related objectives cannot be split out to separate budget line items.
     * For cases that *can* be split out into discrete items, such as licenses for commercial tooling, the Security Officer follows Dose Health's standard corporate budgeting process.
-      * <mark>At the beginning of every fiscal year, the COO contacts the Security Officer to plan for the upcoming year's expenses</mark>.
+      * <mark>`At the beginning of every fiscal year, the COO contacts the Security Officer to plan for the upcoming year's expenses`</mark>.
       * The Security Officer works with the COO to forecast spending needs based on the previous year's level, along with changes for the upcoming year such as additional staff hires.
       * During the year, if an unforeseen security-related expense arises that was not in the budget forecast, the Security Officer works with the COO to reallocate any resources as necessary to cover this expense.
 
