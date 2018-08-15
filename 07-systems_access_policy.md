@@ -34,7 +34,7 @@ Access to Dose Health systems and application is limited for all users, includin
 ## 7.2 Access Establishment and Modification
 
 1. <mark>`Requests for access to Dose Health Platform systems and applications is made formally using the following process:`</mark>
-  1. A Dose Health workforce member initiates the access request by creating an Issue in the Dose Health Quality Management System.
+  1. A Dose Health workforce member initiates the access request by creating an Issue.
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
@@ -45,10 +45,10 @@ Access to Dose Health systems and application is limited for all users, includin
      * All password exchanges must occur over an authenticated channel.
      * For production systems, access grants are accomplished by adding the appropriate user account to the corresponding LDAP group.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Dose Health employee at the discretion of the Security Officer or Privacy Officer .
-2. Access is not granted until receipt, review, and approval by the Dose Health Security Officer or Privacy Officer ;
+2. Access is not granted until receipt, review, and approval by the Dose Health Security Officer or Privacy Officer.
 3. The request for access is retained for future reference.
-4. All access to Dose Health systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. <mark>`The process for conducting reviews is outlined below:`</mark>
-   1. The Security Officer initiates the review of user access by creating an Issue in the Dose Health Quality Management System.
+4. All access to Dose Health systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
+   1. The Security Officer initiates the review of user access by creating an Issue.
    2. The Security Officer is assigned to review levels of access for each Dose Health workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    4. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
@@ -76,7 +76,7 @@ Access to Dose Health systems and application is limited for all users, includin
 
 1. The level of security assigned to a user to the organization's information systems is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
-3. <mark>`Dose Health maintains a minimum necessary approach to access to Customer data. As such, Dose Health, including all workforce members, does not readily have access to any ePHI.`</mark>
+3. Dose Health maintains a minimum necessary approach to access to Customer data. As such, Dose Health, including all workforce members, does not readily have access to any ePHI.
 
 ## 7.4 Access Authorization
 
@@ -88,7 +88,6 @@ Access to Dose Health systems and application is limited for all users, includin
 1. Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
 2. Each Customer and Partner has and uses a unique user ID and password that identifies him/her as the user of the information system.
 3. All Customer support desk interactions must be verified before Dose Health support personnel will satisfy any request having information security implications.
-   * <mark>`Dose Health's current support desk software, Zendesk, requires users to authenticate before submitting support tickets.`</mark>
    * Support issues submitted via Dose Health's dashboard require that users authenticate with their Dose Health account before submitting support tickets.
    * Support issues submitted by email must be verified by Dose Health personnel using a phone number that has been registered with the corresponding account.
 
@@ -131,7 +130,7 @@ All workstations at Dose Health are company owned.
 ## 7.10 Employee Termination Procedures
 
 1. The Human Resources Department (or other designated department), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the "Termination Checklist".
-2. <mark>`The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):`</mark>
+2. The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):
    * The user has been using their access rights inappropriately;
    * A user's password has been compromised (a new password may be provided to the user if the user is not identified as the individual compromising the original password);
    * An unauthorized individual is utilizing a user's User Login ID and password (a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password).

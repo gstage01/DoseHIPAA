@@ -32,7 +32,7 @@ The data and network segmentation mechanism differs depending on the primitives 
 
 * Within AWS, hosted load balancers segment data across dedicated Virtual Private Clouds for PaaS Customers and for Platform Add-ons.
 
-The segmentation strategies employed by Dose Health effectively create <mark>`RFC 1918`</mark>, or dedicated, private segmented and separated networks and IP spaces, for each PaaS Customer and for Platform Add-ons.
+The segmentation strategies employed by Dose Health effectively create RFC 1918, or dedicated, private segmented and separated networks and IP spaces, for each PaaS Customer and for Platform Add-ons.
 
 Additionally, IPtables is used on each server for logical segmentation. IPtables is configured to restrict access to only justified ports and protocols. Dose Health has implemented strict logical access controls so that only authorized personnel are given access to the internal management servers. The environment is configured so that data is transmitted from the load balancers to the application servers over an TLS encrypted session.
 

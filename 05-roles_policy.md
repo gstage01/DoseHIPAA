@@ -1,10 +1,10 @@
 # 5. Roles Policy
 
-Dose Health has a <mark>`Security Officer [164.308(a)(2)]`</mark> and <mark>`Privacy Officer [164.308(a)(2)]`</mark> appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Dose Health has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## 5.1 Applicable Standards
 
-### <mark>`5.1.1 Applicable Standards from the HITRUST Common Security Framework`</mark>
+### 5.1.1 Applicable Standards from the HITRUST Common Security Framework
 
 * 02.f - Disciplinary Process
 * 06.d - Data Protection and Privacy of Covered Information
@@ -16,7 +16,7 @@ Dose Health has a <mark>`Security Officer [164.308(a)(2)]`</mark> and <mark>`Pri
 * 164.308(a)(2) - Assigned Security Responsibility
 * 164.308(a)(5)(i) - Security Awareness and Training
 
-## 5.2 Privacy Officer
+## <mark>`5.2 Privacy Officer`</mark>
 
 The Privacy Officer is responsible for assisting with compliance and security training for workforce members, assuring organization remains in compliance with evolving compliance rules, and helping the Security Officer in his responsibilities.
 
@@ -37,7 +37,7 @@ The current Dose Health Privacy Officer is <mark>`Travis Good ([travis@Dose Heal
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 3. The training session focuses on, but is not limited to, the following subjects defined in Dose Health's security policies and procedures:
    1. HIPAA Privacy, Security, and Breach notification rules;
-   2. <mark>`HITRUST Common Security Framework`</mark>;
+   2. HITRUST Common Security Framework;
    3. <mark>`NIST Security Rules`</mark>;
    4. Risk Management procedures and documentation;
    5. Auditing. Dose Health may monitor access and activities of all users;
@@ -60,7 +60,7 @@ The current Dose Health Privacy Officer is <mark>`Travis Good ([travis@Dose Heal
    22. Procedures to re-use electronic media containing ePHI;
    23. SSH key and sensitive document encryption procedures.
 
-## 5.3 Security Officer
+## <mark>`5.3 Security Officer`</mark>
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Dose Health security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
@@ -68,7 +68,7 @@ The current Dose Health Security Officer is <mark>`Christopher Gerg ([chris.gerg
 
 ### 5.3.1 Organizational Responsibilities
 
-The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Dose Health's efforts to be compliant with the HIPAA Security Regulations, <mark>`HITRUST CSF`</mark>, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI. The Security Officer is appointed by and reports to the Board of Directors and the CEO.
+The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Dose Health's efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI. The Security Officer is appointed by and reports to the Board of Directors and the CEO.
 
 These organizational responsibilities include, but are not limited to the following:
 

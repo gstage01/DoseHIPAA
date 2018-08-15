@@ -4,7 +4,7 @@ This policy establishes the scope, objectives, and procedures of Dose Health's i
 
 ## 4.1 Applicable Standards
 
-### <mark>`4.1.1 Applicable Standards from the HITRUST Common Security Framework`<mark>
+### 4.1.1 Applicable Standards from the HITRUST Common Security Framework
 
 * 03.a - Risk Management Program Development
 * 03.b - Performing Risk Assessments
@@ -34,12 +34,11 @@ This policy establishes the scope, objectives, and procedures of Dose Health's i
 5. All Dose Health workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Dose Health Roles Policy.
 6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Dose Health's Security Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
-8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. <mark>`The process is tracked, measured, and monitored using the following procedures`</mark>:
-  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an issue in the Dose Health Quality Management System.
-  2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
-  3. All findings are documented in an approved spreadsheet that is linked to the Issue.
-  4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
+  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures, and one is assigned to carry out the Risk Management Procedures.
+  2. All findings are documented in an approved spreadsheet that is linked to the Issue.
+  3. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+  4. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
 9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures

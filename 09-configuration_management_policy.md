@@ -14,7 +14,7 @@ Dose Health standardizes and automates configuration management through the use 
 
 ## 9.2 Configuration Management Policies
 
-1. <mark>`Chef and Salt are used to standardize and automate configuration management.`</mark>
+1. NodeJS scripts are used to standardize and automate configuration management.
 2. No systems are deployed into Dose Health environments without approval of the Dose Health CTO.
 3. All changes to production systems, network devices, and firewalls are approved by the Dose Health CTO before they are implemented to assure they comply with business and security requirements.
 4. All changes to production systems are tested before they are implemented in production.
@@ -29,10 +29,7 @@ Dose Health standardizes and automates configuration management through the use 
 9. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development.
 10. Dose Health utilizes development and staging environments that mirror production to assure proper function.
 11. All formal change requests require unique ID and authentication.
-12. Dose Health uses the <mark>`[Security Technical Implementation Guides (STIGs)](http://iase.disa.mil/stigs/) published by the Defense Information Systems Agency as a baseline for hardening systems.`</mark>
-    * Windows-based systems use a baseline Active Directory group policy configuration in conjunction with the Windows Server 2012 STIG.
-    * Linux-based systems use a Red Hat Enterprise Linux STIG which has been adapted for Ubuntu and improved based on the results of subsequent vulnerability scans and risk assessments.
-13. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
+12. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 
 ## 9.3 Provisioning Production Systems
 
@@ -50,7 +47,7 @@ Dose Health standardizes and automates configuration management through the use 
    * Intrusion detection and virus scanning software installed.
    * All items listed below in the operating system-specific subsections below.
 6. Once the security team member has verified the new system is correctly configured, the team member must add that system to the Nessus security scanner configuration.
-7. The new system may be rotated into production once the CTO verifies all the provisioning steps listed above have been correctly followed and has marked the Issue with the `Approved` state.
+7. The new system may be rotated into production once the CTO verifies all the provisioning steps listed above have been correctly followed and has marked the Issue with the Approved state.
 
 ### <mark>`9.3.1 Provisioning Linux Systems`</mark>
 
@@ -120,11 +117,11 @@ Dose Health standardizes and automates configuration management through the use 
 3. Code reviews are performed as part of the pull request procedure. Once a change is ready for review, the author(s) will notify other engineers using an appropriate mechanism, typically via a message in Hangouts.
    * Other engineers will review the changes, using the guidelines above.
    * Engineers should note all potential issues with the code; it is the responsibility of the author(s) to address those issues or explain why they are not applicable.
-4. <mark>`If the feature or defect interacts with ePHI, or controls access to data potentially containing ePHI, the code changes must be reviewed by two members of Dose Health's Blue Team (software security team) before the feature is marked as complete.`</mark>
-   * The Blue Team members will provide a security analysis of features to ensure they satisfy Dose Health's compliance and security commitments.
+4. If the feature or defect interacts with ePHI, or controls access to data potentially containing ePHI, the code changes must be reviewed by two members of Dose Health's Dev Ops team before the feature is marked as complete.
+   * The Dev Ops team members will provide a security analysis of features to ensure they satisfy Dose Health's compliance and security commitments.
    * This review must include a security analysis for potential vulnerabilities such as those listed in the [OWASP Top 10](https://www.owasp.org/index.php/Top10) or the [CWE top 25](http://cwe.mitre.org/top25/).
    * This review must also verify that any actions performed by authenticated users will generate appropriate audit log entries.
-   * Blue Team members are required to undergo annual training on identifying the most common software vulnerabilities and will receive ongoing training on Dose Health's compliance and security requirements.
+   * Dev Ops team members are required to undergo annual training on identifying the most common software vulnerabilities and will receive ongoing training on Dose Health's compliance and security requirements.
 5. Once the review process finishes, each reviewer should leave a comment on the pull request saying "looks good to me" (often abbreviated as "LGTM"), at which point the original author(s) may merge their change into the release branch.
 
 ## 9.7 Software Release Procedures
