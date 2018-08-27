@@ -94,7 +94,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-<mark>`Travis Good, MD `</mark>
-Co-founder - Dose Health Health, Inc.  
-travis@Dose Health.com  
-303-351-2640
+Steve Wesner
+<mark>`Co-founder - Dose Health.</mark>`
+steve@dosehealth.com  
+<mark>`303-351-2640`</mark>

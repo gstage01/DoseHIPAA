@@ -48,7 +48,7 @@ Dose Health, at its sole discretion, shares audit reports, including its HITRUST
 
 <mark>`The following process is used to request audit reports`</mark>:
 
-1. Email is sent to <mark>`compliance-reports@Dose Health.com`</mark>. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to <mark>`steve@dosehealth.com`</mark>. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Dose Health staff will log an issue with the details of the request into the Dose Health Quality Management System. The Dose Health Quality Management System is used to track requests' status and outcomes.
 3. Dose Health will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Dose Health will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Dose Health staff will move the issue to "Under Review".

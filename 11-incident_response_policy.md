@@ -64,13 +64,13 @@ Dose Health employees must report any unauthorized or suspicious activity seen o
    1. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
       1. <mark>`Non-Technical Event (minor infringement): the Security Officer completes a [SIR Form](sections/sir-form.doc) and investigates the incident.`</mark>
       2. Technical Event: Assign the issue to an IT resource for resolution. This resource may also be a contractor or outsourced technical resource, in the event of a small office or lack of expertise in the area.
-   2. <mark>`If the issue is a security incident the Security Officer activates the Security Incident Response Team (SIRT) and notifies senior management.`</mark>
-       1. If a non-technical security incident is discovered the SIRT completes the investigation, implements preventative measures, and resolves the security incident.
+   2. <mark>`If the issue is a security incident the Security Officer begins the following process himself, or appoints a workforce representative with proper authorization.`</mark>
+       1. If a non-technical security incident is discovered the Security Officer or authorized workforce representative, completes the investigation, implements preventative measures, and resolves the security incident.
        2. Once the investigation is completed, progress to Phase V, Follow-up.
        3. If the issue is a technical security incident, commence to Phase II: Containment.
-       4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
-       5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
-       6. The lead member of the SIRT team facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
+       4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the officer/appointed representative.
+       5. Each individual involved document all measures taken during each phase, including the start and end times of all efforts.
+       6. The lead member of the team facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
 3. The Security Officer, Privacy Officer, or Dose Health representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
 4. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Dose Health and potentially external.
 

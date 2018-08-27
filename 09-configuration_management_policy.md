@@ -54,14 +54,9 @@ Dose Health standardizes and automates configuration management through the use 
 1. Linux systems have their baseline security configuration applied via Salt states. These baseline Salt states cover:
    * Ensuring that the machine is up-to-date with security patches and is configured to apply patches in accordance with our policies.
    * Stopping and disabling any unnecessary OS services.
-   * Installing and configuring the OSSEC IDS agent.
    * Configuring 15-minute session inactivity timeouts.
-   * Installing and configuring the ClamAV virus scanner.
-   * Installing and configuring the NTP daemon, including ensuring that modifying system time cannot be performed by unprivileged users.
-   * Configuring LUKS volumes for providers that do not have native support for encrypted data volumes, including ensuring that encryption keys are protected from unauthorized access.
    * Configuring authentication to the centralized LDAP servers.
    * Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
-2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
 ### <mark>`9.3.2 Provisioning Windows Systems`</mark>
 
@@ -69,13 +64,10 @@ Dose Health standardizes and automates configuration management through the use 
    * Joining the Windows Domain Controller and applying the Active Directory Group Policy configuration.
    * Ensuring that the machine is up-to-date with security patches and is configured to apply patches in accordance with our policies.
    * Stopping and disabling any unnecessary OS services.
-   * Installing and configuring the OSSEC IDS agent.
    * Configuring 15-minute session inactivity timeouts.
-   * Installing and configuring the Avast virus scanner.
    * Configuring transport encryption according to the requirements described in [§17.9](#17.9-transmission-security).
    * Configuring the system clock, including ensuring that modifying system time cannot be performed by unprivileged users.
    * Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
-2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
 ### 9.3.3 Provisioning Management Systems
 

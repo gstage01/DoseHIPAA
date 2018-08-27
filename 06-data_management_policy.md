@@ -20,7 +20,7 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 6.2 Backup Policy and Procedures
 
-1. <mark>`Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Dose Health Customers, including PaaS Customers that utilize the Dose Health Backup Service.`</mark>
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Dose Health Customers, including PaaS Customers that utilize the Dose Health Backup Service.
 2. The Dose Health Ops Team is designated to be in charge of backups.
 3. Dev Ops Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups
